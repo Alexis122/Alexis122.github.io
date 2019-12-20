@@ -1,11 +1,11 @@
 # Site settings
 author: Alexis Priore
-title: 
+title: Why did I decide to learn software development?
 header-img: img/home-bg.png
 email: alexispriore@gmail.com
 copyright_name: Alexis Priore
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Restaurants to Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Alexis122
